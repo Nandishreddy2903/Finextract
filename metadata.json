@@ -1,0 +1,5 @@
+{
+  "name": "FinExtract AI",
+  "description": "Enterprise-grade financial statement extraction agent for processing corporate PDF reports into structured JSON and CSV data.",
+  "requestFramePermissions": []
+}
